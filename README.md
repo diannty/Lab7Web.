@@ -23,6 +23,8 @@ http://localhost/lab7_php_dasar/php_dasar.php/
 
 4. dan buatlah file baru dengan nama php_dasar.php kemudian memasukkan kode dibawah ini
 
+
+![php dasar](https://user-images.githubusercontent.com/101880835/174530237-67e26f7d-33a2-4db8-929b-13ab82f37ee5.png)
 5. Kemudian untuk mengakses hasilnya melalui URL:
 
 ![php dasar ada nama aku](https://user-images.githubusercontent.com/101880835/174529732-2eda9db1-199e-47cd-b700-5c38d160998a.png)
